@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51953e53.css",
+    "main.js": "/static/js/main.a1f15887.js",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "index.html": "/index.html",
+    "main.51953e53.css.map": "/static/css/main.51953e53.css.map",
+    "main.a1f15887.js.map": "/static/js/main.a1f15887.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51953e53.css",
+    "static/js/main.a1f15887.js"
+  ]
+}
